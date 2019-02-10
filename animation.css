@@ -1,0 +1,9 @@
+@keyframes circle_pav{
+    0%{background-color: aliceblue;}
+    20%{background-color: red;}
+    30%{background-color: aliceblue;}
+    55%{background-color: yellow;}
+    65%{background-color: aliceblue;}
+    90%{background-color: green;}
+    100%{background-color: aliceblue;}
+}

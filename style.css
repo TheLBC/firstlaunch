@@ -1,3 +1,5 @@
+@import url("animation.css");
+
 *{
     margin: 0;
     padding: 0;
@@ -17,3 +19,27 @@ html,body{
     text-transform: uppercase;
     letter-spacing: 0.5em;
 }
+
+/* pav style */
+
+.block_pav{
+    display: flex;
+    justify-content: center;
+    margin: 50px 0 50px 0;
+}
+
+.block_pav .circle_pav{
+
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: aliceblue;
+    animation-name: circle_pav;
+    animation-duration: 5s;
+    animation-fill-mode: none;
+    animation-iteration-count: infinite;
+    
+}
+
+/* end pav style */
