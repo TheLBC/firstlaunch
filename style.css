@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    height: 100%;
+}
+.container{
+    width: 1280px;
+    min-height: 100%;
+    margin: 0 auto;
+    background-color: gray;
+}
+
+.container h1{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+}
