@@ -1,4 +1,4 @@
-# firstlaunch
+﻿# firstlaunch
 
 Превое задание:
 
@@ -18,7 +18,7 @@ Coloborator_id:
 Comment:
 
 Colloborator: Роман
-Coloborator_id:
+Coloborator_id: rom
 Comment:
 
 Colloborator: Павел 
