@@ -14,8 +14,8 @@
 Команда L.B.C.
 
 Colloborator: Андрей
-Coloborator_id:AAA
-Comment: Это будут 3 буквы А
+Coloborator_id:aaa
+Comment: Это будут 3 буквы a
 
 Colloborator: Роман
 Coloborator_id: rom
