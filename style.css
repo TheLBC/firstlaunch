@@ -49,12 +49,12 @@ body {
 
 /*rom style*/
 
-.block-rom {
+.block-rrr {
     display: flex;
     justify-content: center
 }
 
-.coffee-rom:hover {
+.coffee-rrr:hover {
     box-shadow: 0 0 0 4px #ddd, 0 0 0 8px #ccc, 0 0 0 12px #bbb, 0 0 0 14px #aaa, 0 0 0 16px #999, 0 0 0 18px #888;
     transition: all 1000ms;
     -o-transition: all 1000ms;
