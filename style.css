@@ -44,7 +44,7 @@ body {
 }
 /* end pav style */
 
-/*rom style*/
+/*rrr style*/
 
 .block-rrr {
     display: flex;
@@ -58,7 +58,7 @@ body {
     -moz-transition: all 1000ms;
     -webkit-transition: all 1000ms;
 }
-/*end rom style*/
+/*end rrr style*/
 /* isa style */
 .block_isa{margin-top: 5%;
 margin-left: 10%;
@@ -172,5 +172,15 @@ height: 291px;}
     background-color: gold;
     transition: 10s;
 }
+
+
+
+/* ann style */
+.block_ann{
+    outline: none;
+}
+
+/* end ann style */
+
 
 

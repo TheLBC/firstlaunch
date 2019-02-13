@@ -26,7 +26,7 @@ Coloborator_id: pav
 Comment:
 
 Colloborator: Ляна
-Coloborator_id:
+Coloborator_id: ann
 Comment:
 
 Colloborator: Асия
