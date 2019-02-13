@@ -18,8 +18,8 @@ Coloborator_id:
 Comment:
 
 Colloborator: Роман
-Coloborator_id: rom
-Comment:
+Coloborator_id: rrr
+Comment: **раз уж Андрей кричит - ааа, то я буду рычать - rrr**
 
 Colloborator: Павел 
 Coloborator_id: pav
