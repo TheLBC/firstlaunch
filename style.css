@@ -43,3 +43,15 @@ html,body{
 }
 
 /* end pav style */
+/* isa style */
+.block_isa{margin-top: 5%;
+margin-left: 10%;
+width: 1000px;
+height: 291px;}
+.block_isa img{display: block;
+margin: 0;
+width: 1000px;
+height: 291px;}
+.block_isa:hover {display:none;}
+
+/* end isa style */
