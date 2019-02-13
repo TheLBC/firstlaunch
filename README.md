@@ -30,6 +30,6 @@ Coloborator_id: ann
 Comment:
 
 Colloborator: Асия
-Coloborator_id:
+Coloborator_id: isa
 Comment:
 
